@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "colorgrade",
+  "version": "${version}",
+  "name": "ColorGrade",
+  "description": "Klawisz Y otwiera GUI z korekcją kolorów: jasność, kontrast, nasycenie, odcień, gamma.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.colorgrade.ColorGradeMod"]
+  },
+  "mixins": [
+    { "config": "colorgrade.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

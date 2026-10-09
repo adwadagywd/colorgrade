@@ -1,0 +1,14 @@
+{
+  "key.colorgrade.open": "Open color settings",
+  "category.colorgrade": "ColorGrade",
+  "colorgrade.title": "Color settings",
+  "colorgrade.enabled": "Effect: ON",
+  "colorgrade.disabled": "Effect: OFF",
+  "colorgrade.option.brightness": "Brightness",
+  "colorgrade.option.contrast": "Contrast",
+  "colorgrade.option.saturation": "Saturation",
+  "colorgrade.option.hue": "Hue",
+  "colorgrade.option.gamma": "Gamma",
+  "colorgrade.reset": "Reset",
+  "colorgrade.done": "Done"
+}

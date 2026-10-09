@@ -1,0 +1,14 @@
+{
+  "key.colorgrade.open": "Otwórz ustawienia kolorów",
+  "category.colorgrade": "ColorGrade",
+  "colorgrade.title": "Ustawienia kolorów",
+  "colorgrade.enabled": "Efekt: WŁ.",
+  "colorgrade.disabled": "Efekt: WYŁ.",
+  "colorgrade.option.brightness": "Jasność",
+  "colorgrade.option.contrast": "Kontrast",
+  "colorgrade.option.saturation": "Nasycenie",
+  "colorgrade.option.hue": "Odcień",
+  "colorgrade.option.gamma": "Gamma",
+  "colorgrade.reset": "Resetuj",
+  "colorgrade.done": "Gotowe"
+}
